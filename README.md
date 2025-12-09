@@ -26,13 +26,6 @@ Windows için modern bir sistem aracı: RAM, temizlik, benchmark, program yönet
 
 ---
 
-## 🖼 Ekran Görüntüleri
-
-> Bu bölüme resimleri ekleyeceğiz 👇  
-> `/screenshots` klasörü oluşturup resimleri yükleyeceğiz.
-
----
-
 ## 📥 Kurulum
 
 1. Sağ taraftaki **Releases** bölümüne gidin.
